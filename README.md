@@ -1,9 +1,4 @@
 ## 注意事项
-1）5月8日晚，CloudFlare Workers 的业务域名 Workers.dev 被防火长城 DNS 污染、SNI阻断。
-
-2）CloudFlare Workers，可自定义workers域名，教程已更新至博客`ifts.ml`；经过添加自定义域名，更换Host和SNI后已可正常使用。
-
-#### 交流群[https://t.me/iflugp](https://t.me/iflugp)
 
 ### 提示：UUID请使用UUID生成器，推荐[UUID Generator](https://www.uuidgenerator.net/)
 
